@@ -1,0 +1,29 @@
+COMO ADICIONAR AS FOTOS DO PORTFÓLIO
+====================================
+
+Cada álbum tem uma pasta dentro de images/albuns/:
+
+  images/albuns/pre-wedding/
+  images/albuns/gestantes/
+  images/albuns/natal/
+  images/albuns/profissoes/
+  images/albuns/studio/
+  images/albuns/eventos/
+
+Em cada pasta:
+  capa.jpg          -> foto da capa do álbum (vertical, 4:5)
+  01.jpg, 02.jpg... -> fotos do álbum, na ordem em que vão aparecer
+
+Hoje cada álbum tem 6 espaços (01 a 06). Para ter mais fotos, copie
+um bloco <button class="album-photo media"> dentro do álbum no
+index.html e troque o número (07.jpg, 08.jpg...).
+Espaço sem foto aparece como um bloco com o nome do arquivo.
+
+Para criar um álbum novo ou renomear um álbum, veja o comentário
+"03. PORTFÓLIO — ÁLBUNS" no index.html.
+
+Tamanho das fotos: no máximo 1600 px no lado maior e até ~300 KB
+cada (exportar em JPG, qualidade 75-80%).
+
+Link direto para um álbum (bom para o Instagram):
+  www.seudominio.com.br/#album-natal
